@@ -72,3 +72,4 @@
 Константин Емельянов               | Developer, NetUP
 Багиров Эльшан                     | Backend developer
 Сергей Николаев                    | Fullstack Developer
+Павел Аргентов                     | Backend developer, teamlead, Tver
